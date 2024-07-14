@@ -16,14 +16,14 @@
     "enable": false,
     "ignoreCommand": []
   },
-  "adminBot": [],
+  "adminBot": ["https://www.facebook.com/profile.php?id=100073129302064"],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": ""
   },
-  "nickNameBot": "[ > ]•𝗚𝗼𝗮𝘁𝗕𝗼𝘁",
-  "prefix": ">",
+  "nickNameBot": "Zassho Gilgamesh 🗡️ [ + ]",
+  "prefix": "+",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
